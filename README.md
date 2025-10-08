@@ -1,2 +1,2 @@
-# Data-Science-Capstone-Project
-IBM Data Science Professional Certificate - Applied Data Science Capstone Project
+# Space Y Success or Failure Predictor
+Project completed as a part of 'IBM Data Science Professional' Certification
