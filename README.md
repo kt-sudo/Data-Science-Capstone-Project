@@ -52,7 +52,7 @@ Instead of rocket science equations, you’ll leverage **data science and machin
 ## 📊 Tools & Technologies
 - **Python** (Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn, Plotly)  
 - **SQL** for data querying  
-- **Dash / Flask** for dashboards  
+- **Plotly Dash** for dashboards  
 - **Jupyter Notebooks** for development & experimentation  
 - **Machine Learning Models**: Logistic Regression, Decision Trees, Random Forest, SVM, etc.  
 
